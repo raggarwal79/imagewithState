@@ -1,0 +1,11 @@
+body {
+	background-color: #282c34;
+}
+.App {
+  width: 75%;
+  margin: 20px auto;
+}
+
+.textCenter {
+	text-align: center;
+}

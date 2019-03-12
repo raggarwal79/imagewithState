@@ -1,0 +1,15 @@
+.postForm {
+	position: relative;
+}
+
+.postForm input {
+	width: 100%;
+	padding: 10px 0;
+    border-width: 0 0 1px 0;
+}
+
+.postForm button {
+	position: absolute;
+    right: 0;
+    padding: 9px;
+}

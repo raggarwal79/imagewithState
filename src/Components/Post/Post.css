@@ -1,0 +1,13 @@
+.postContainer {
+	background: #fff;
+	margin: 20px 0;
+	padding: 15px;
+}
+
+.postContainer .postTitle {
+	margin-bottom: 10px;
+}
+
+.postContainer .postImage img {
+	width: 100%;
+}
